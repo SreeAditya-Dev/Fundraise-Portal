@@ -130,7 +130,7 @@ class AppTheme {
     ),
 
     // Card theme - Elevated surfaces with subtle shadows
-    cardTheme: CardThemeData(
+    cardTheme: CardTheme(
       color: cardLight,
       elevation: 2,
       shadowColor: shadowLight,
@@ -317,7 +317,7 @@ class AppTheme {
     ),
 
     // Tab bar theme
-    tabBarTheme: TabBarThemeData(
+    tabBarTheme: TabBarTheme(
       labelColor: primaryLight,
       unselectedLabelColor: textSecondaryLight,
       indicatorColor: primaryLight,
@@ -443,7 +443,7 @@ class AppTheme {
     ),
 
     // Card theme - Dark elevated surfaces
-    cardTheme: CardThemeData(
+    cardTheme: CardTheme(
       color: cardDark,
       elevation: 2,
       shadowColor: shadowDark,
@@ -630,7 +630,7 @@ class AppTheme {
     ),
 
     // Tab bar theme - Dark
-    tabBarTheme: TabBarThemeData(
+    tabBarTheme: TabBarTheme(
       labelColor: primaryDark,
       unselectedLabelColor: textSecondaryDark,
       indicatorColor: primaryDark,
