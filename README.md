@@ -220,7 +220,7 @@ class AppDataService {
   Map<String, String> _userPasswords = {
     'admin@fundraise.com': 'admin123',
     'demo@fundraise.com': 'demo123',
-    'user2@fundraise.com': 'user123',
+    'user2@fundraise.com': 'user@123',
     'user3@fundraise.com': 'user123',
   };
   
